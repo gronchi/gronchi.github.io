@@ -1,3 +1,1 @@
-User-agent: *
-
-Sitemap: gronchi.github.io/sitemap.xml
+User-agent: * Disallow: /
