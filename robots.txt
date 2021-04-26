@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: gronchi.github.io/sitemap.xml

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   viewBox="0 0 182.10001 162.8"
+   version="1.1"
+   id="svg177"
+   width="182.10001"
+   height="162.8">
+  <metadata
+     id="metadata181">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>ipp-desktop-en</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:none;stroke:#00445f;stroke-miterlimit:10;}.cls-2,.cls-3{fill:#00445f;}.cls-3{fill-rule:evenodd;}.cls-4,.cls-6{fill:#0077bd;}.cls-4,.cls-5,.cls-6{stroke:#0077bd;stroke-miterlimit:3.86;}.cls-4{stroke-width:1px;}.cls-5{fill:#fff;}.cls-5,.cls-6{stroke-width:0.42px;}</style>
+  </defs>
+  <title
+     id="title6">ipp-desktop-en</title>
+  <g
+     id="g1187"
+     transform="translate(-337.02,-21.92)">
+    <polygon
+       class="cls-4"
+       points="337.52,22.42 518.62,22.42 518.62,184.22 337.52,184.22 "
+       id="polygon94" />
+    <path
+       class="cls-5"
+       d="M 451.82,87.74 V 43.95 c 0,-3.88 -3.86,-7.84 -8.16,-8.16 h -28.95 v 88.31 h 14.84 V 95.9 h 15.59 c 2.36,0.15 6.73,-4.1 6.68,-7.42 z"
+       id="path96" />
+    <path
+       class="cls-6"
+       d="m 429.55,85.51 h 5.2 A 2.31,2.31 0 0 0 437,83.28 c 0.11,-13.18 0.11,-21 0,-34.14 a 2.28,2.28 0 0 0 -2.23,-2.23 42.61,42.61 0 0 0 -5.2,0 v 38.6 z"
+       id="path98" />
+    <polygon
+       class="cls-5"
+       points="351.63,35.78 367.21,35.78 367.21,124.1 351.63,124.1 "
+       id="polygon100" />
+    <path
+       class="cls-5"
+       d="M 410.26,87.74 V 43.95 c 0.31,-3.88 -3.59,-7.84 -8.16,-8.16 H 373.15 V 124.1 H 388 V 95.9 h 15.59 c 2.64,0.15 7,-4.1 6.68,-7.42 v -0.74 z"
+       id="path102" />
+    <path
+       class="cls-6"
+       d="m 388,85.51 h 5.2 c 1.1,0 2.53,-0.76 2.23,-2.23 0.38,-13.18 0.38,-21 0,-34.14 0.31,-1.16 -0.88,-2.33 -2.23,-2.23 a 42.37,42.37 0 0 0 -5.2,0 z"
+       id="path104" />
+  </g>
+</svg>
